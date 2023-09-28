@@ -1,0 +1,17 @@
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\bin\Debug\net6.0-windows\calculaidade.exe
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\bin\Debug\net6.0-windows\calculaidade.deps.json
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\bin\Debug\net6.0-windows\calculaidade.runtimeconfig.json
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\bin\Debug\net6.0-windows\calculaidade.dll
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\bin\Debug\net6.0-windows\calculaidade.pdb
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.csproj.AssemblyReference.cache
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.Form1.resources
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.csproj.GenerateResource.cache
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.AssemblyInfoInputs.cache
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.AssemblyInfo.cs
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.csproj.CoreCompileInputs.cache
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.dll
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\refint\calculaidade.dll
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.pdb
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\calculaidade.genruntimeconfig.cache
+C:\Users\2022102020032\source\repos\calculaidade\calculaidade\obj\Debug\net6.0-windows\ref\calculaidade.dll
